@@ -6,8 +6,6 @@ import (
 	"github.com/spf13/cobra"
 )
 
-const versionFileName = ".version"
-
 var Version string
 
 // versionCmd represents the version command
